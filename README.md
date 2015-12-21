@@ -9,4 +9,4 @@
 - Multi Render Targetで、Color/Alpha/Additive/Multiplyの各要素を別々でRenderTextureに出力。
 - 各要素の[w]に、Depthの情報を格納し、合成の時に、前のものは前に来るように、してる！
 
-![スクリーンショット](screenShot2.png)
+![スクリーンショット](ScreenShot2.png)
